@@ -1,17 +1,13 @@
 body {
+  color: white;
   background-color: #011627;
 }
 
 button {
   height: 150px;
   width: 150px;
-  color: #fff;
-  background-color: #FF3666;
-  border: 2px solid #fff;
-  margin:50px;
-}
-
-#synthesis {
-  margin: 100px;
-  border: 1px dashed #fff;
+  margin: 50px;
+  color: black;
+  background-color: #EE964B;
+  font-family: monospace;
 }
