@@ -1,3 +1,3 @@
 # PMB-web-test
 
-[cool additive synth in your browser!](https://keesvds2006.github.io/PMB-web-test/)
+[additive synth](https://keesvds2006.github.io/PMB-web-test/)
