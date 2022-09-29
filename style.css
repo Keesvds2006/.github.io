@@ -1,0 +1,20 @@
+
+body {
+    color:white;
+    font: "Monaco";
+    padding: 20px;
+    margin: 20px;
+    background-color: #171b21;
+}
+
+input {
+    margin: 10px;
+}
+
+input.btn {
+    color: #42464D;
+    width: 100px;
+    height: 40px;
+    font-family: "Monaco";
+    background-color: white;
+}
